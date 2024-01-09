@@ -14,7 +14,6 @@ Huggingface instructor embeddings: Text embeddings
 FAISS: Vector database
 
 # Installation
-  git clone https://github.com/codebasics/langchain.git
     cd 3_project_codebasics_q_and_a
       pip install -r requirements.txt
         GOOGLE_API_KEY="your_api_key_here"
