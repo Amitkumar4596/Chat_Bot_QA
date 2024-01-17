@@ -15,8 +15,8 @@ FAISS: Vector database
 
 # Installation
     cd 3_project_codebasics_q_and_a
-      pip install -r requirements.txt
-        GOOGLE_API_KEY="your_api_key_here"
+    pip install -r requirements.txt
+    GOOGLE_API_KEY="your_api_key_here"
 
 # Usage
 1) Run the Streamlit app by executing:
